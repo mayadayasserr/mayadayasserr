@@ -1,5 +1,4 @@
-<div align="center">Centered Text</div>
-# <center> Hello👋, I'm ***MAYADA*** </center>
+# <div align="center">Hello👋, I'm ***MAYADA***</div>
  
 ## Network Engineer
 

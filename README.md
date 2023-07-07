@@ -1,4 +1,4 @@
-# <p style="text-align: center;">Hello👋, I'm ***MAYADA***</p>
+<div align="center">Centered Text</div>
 # <center> Hello👋, I'm ***MAYADA*** </center>
  
 ## Network Engineer

@@ -10,4 +10,4 @@
 Here are some ideas to get you started:
 -->
 ## Connect with me:
-[![GitHub Icon](https://fontawesome.com/icons/twitter?f=brands&s=solid&pc=%2377a8fd)]
+

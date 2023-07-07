@@ -1,4 +1,4 @@
-# Hello👋, I'm ***MAYADA***
+# <p style="text-align: center;">Hello👋, I'm ***MAYADA***</p>
 
  
 ## Network Engineer

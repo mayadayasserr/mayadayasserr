@@ -9,4 +9,5 @@
 **mayadayasserr/mayadayasserr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
+## <div align="center">Connect with me:</div>
 [![GitHub Icon](https://fontawesome.com/icons/twitter?f=brands&s=solid&pc=%2377a8fd)]

@@ -1,6 +1,6 @@
 # <div align="center">Hello👋, I'm ***MAYADA***</div>
 
-## <div align="center">Programmerr</div>
+## <div align="center">Programmer</div>
 ## <div align="center">Network Engineer</div>
 
 - 🔭 I’m currently working on an android application

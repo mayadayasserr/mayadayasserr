@@ -3,7 +3,7 @@
 ## <div align="center">Programmer</div>
 ## <div align="center">Network Engineer</div>
 
-
+💬 Graduated from Faculty of Computers and Information
 - 📫 How to reach me: **mayadayasser12@gmail.com**
 
 <!--

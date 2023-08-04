@@ -1,10 +1,14 @@
 # <div align="center">Hello👋, I'm **MAYADA💜**</div>
 <!--## <div align="center">💜</div> -->
-## <div align="center">Programmer</div>
-## <div align="center">Network Engineer</div>
 
-💬 Graduated from Faculty of Computers and Information
+## <div align="center">Network Engineer</div>
+## <div align="center">Mobile App Developer</div>
+
+🌱 Graduated from Faculty of Computers and Information 
+- 💬 Ask me about anything
 - 📫 How to reach me: **mayadayasser12@gmail.com**
+- ⚡ Fun fact always learning
+  
 
 <!--
 **mayadayasserr/mayadayasserr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
